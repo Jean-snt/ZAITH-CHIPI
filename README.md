@@ -1,4 +1,6 @@
 # TOMA ZAITH TOMA, YA TERMINE ZAITH
+#Jair sigue hablando ya casi acabo
+#Yosias chupame el huevo izquierdo
 <img width="479" height="283" alt="image" src="https://github.com/user-attachments/assets/4c3d5acc-4511-468d-8ba1-481a3679c65c" />
 <img width="351" height="106" alt="image" src="https://github.com/user-attachments/assets/62fe7e9f-66c0-4763-aac2-765c2b06f596" />
 <img width="411" height="285" alt="image" src="https://github.com/user-attachments/assets/a0e40dd6-3dd5-409c-a3c4-e80a46a46953" />
