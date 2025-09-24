@@ -1,6 +1,6 @@
 # 📚 Proyecto Backend - Equipo 1
 
-Este repositorio contiene el **backend** del proyecto, desarrollado con **Django** y **Django REST Framework (DRF)**, autenticación con **JWT** y base de datos **MySQL** o **PostgreSQL**.
+Este repositorio contiene el **backend** del proyecto, desarrollado con **Django** y **Django REST Framework (DRF)**, autenticación con **JWT** y base de datos **MySQL** o **PostgreSQL**(por ahora estamos en SQLITE).
 
 ---
 
