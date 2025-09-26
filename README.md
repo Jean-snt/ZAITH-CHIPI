@@ -1,152 +1,96 @@
-# 📚 Proyecto Backend - Equipo 1
+# 📚 Backend de ZAITH-CHIPI
 
-Este repositorio contiene el **backend** del proyecto, desarrollado con **Django** y **Django REST Framework (DRF)**, autenticación con **JWT** y base de datos **MySQL** o **PostgreSQL**(por ahora estamos en SQLITE).
-
----
-
-## 🚀 Avance actual
-
-- Proyecto base creado en Django.
-- App principal `core/` creada.
-- Configuración de **Django REST Framework**.
-- Configuración de conexión con **MySQL** (opcional: PostgreSQL) *(pendiente de implementación)*.
-- Integración de **JWT Authentication** (`djangorestframework_simplejwt`).
-- **Hoy**: Se implementaron los endpoints principales para registro, login, envío de mensajes y consulta de progreso.
+Este repositorio contiene el **backend** del proyecto ZAITH-CHIPI, un tutor de español impulsado por IA. Está desarrollado con **Django** y **Django REST Framework (DRF)**, y utiliza **LangChain** para orquestar la lógica de la IA.
 
 ---
 
-## 📦 Instalación
+## 🚀 Arquitectura y Componentes
 
-Clona el repositorio e instala las dependencias:
+El backend está estructurado en varias aplicaciones de Django, cada una con una responsabilidad clara:
 
-```sh
-pip install -r requirements.txt
-```
-
----
-
-## 🔑 Endpoints principales
-
-### Registro de usuario
-
-**POST** `/api/register/`
-
-**Body (JSON):**
-```json
-{
-  "username": "usuario",
-  "email": "correo@test.com",
-  "password": "123456"
-}
-```
-
-**Response:**
-```json
-{
-  "message": "Usuario creado correctamente"
-}
-```
+-   `config/`: Contiene la configuración global del proyecto Django, incluyendo `settings.py` y `urls.py` principales.
+-   `core/`: Gestiona la autenticación de usuarios (registro y login con JWT) y los modelos de datos principales.
+-   `chat_tutor/`: **(Nuevo)** Encapsula toda la lógica del tutor de IA.
+    -   `views.py`: Expone el endpoint `/api/chat/` para la interacción con el tutor.
+    -   `services.py`: Orquesta la lógica de negocio, gestionando el estado de la conversación.
+    -   `graph.py`: Define el grafo de estados de LangGraph que controla el flujo de la conversación y la toma de decisiones de la IA.
+    -   `models.py`: Almacena el estado de la conversación de cada usuario en la base de datos.
 
 ---
 
-### Login (obtener tokens JWT)
+## 📦 Instalación y Configuración
 
-**POST** `/api/login/`
+Para ejecutar el backend, sigue estos pasos:
 
-**Body (JSON):**
-```json
-{
-  "username": "usuario",
-  "password": "123456"
-}
-```
+1.  **Clona el repositorio** y navega a la carpeta del backend:
+    ```sh
+    git clone <URL_DEL_REPOSITORIO>
+    cd ZAITH-CHIPI/BACKEND
+    ```
 
-**Response:**
-```json
-{
-  "refresh": "token_refresh",
-  "access": "token_access"
-}
-```
+2.  **(Recomendado)** Crea y activa un **entorno virtual**:
+    ```sh
+    # Crear el entorno
+    python -m venv venv
 
----
+    # Activar en Windows
+    venv\Scripts\activate
 
-### Enviar mensaje (protegido)
+    # Activar en macOS/Linux
+    # source venv/bin/activate
+    ```
 
-**POST** `/api/messages/`
+3.  **Instala las dependencias**:
+    El archivo `requirements.txt` ha sido limpiado y las versiones han sido fijadas para garantizar la estabilidad.
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-**Headers:**
-```
-Authorization: Bearer <ACCESS_TOKEN>
-```
+4.  **Aplica las migraciones** para configurar la base de datos (SQLite por defecto):
+    ```sh
+    python manage.py migrate
+    ```
 
-**Body (JSON):**
-```json
-{
-  "original_text": "Hola como estas?"
-}
-```
-
-**Response (ejemplo):**
-```json
-{
-  "id": 1,
-  "original_text": "Hola como estas?",
-  "corrected_text": null,
-  "feedback": null,
-  "created_at": "2025-09-24T12:34:56Z"
-}
-```
+5.  **Inicia el servidor**:
+    ```sh
+    python manage.py runserver
+    ```
+    El servidor estará disponible en `http://127.0.0.1:8000`.
 
 ---
 
-### Consultar progreso (protegido)
+## 🔑 Endpoints de la API
 
-**GET** `/api/progress/`
+### Autenticación
 
-**Headers:**
-```
-Authorization: Bearer <ACCESS_TOKEN>
-```
+-   **`POST /api/register/`**: Para crear un nuevo usuario.
+-   **`POST /api/login/`**: Para autenticar un usuario y obtener tokens `access` y `refresh`.
 
-**Response (ejemplo):**
-```json
-[
-  {
-    "id": 1,
-    "original_text": "Hola como estas?",
-    "corrected_text": "Hola, ¿cómo estás?",
-    "feedback": "Recuerda usar tildes.",
-    "created_at": "2025-09-24T12:34:56Z"
-  }
-]
-```
+### Tutor de IA
 
----
-
-## 🧪 Pruebas con Postman
-
-Para probar los endpoints protegidos en Postman, añade en la sección **Headers** lo siguiente:
-
-- **Key:** `Authorization`
-- **Value:** `Bearer TU_TOKEN_AQUI`
-
-Reemplaza `TU_TOKEN_AQUI` por el token de acceso obtenido en el login.
+-   **`POST /api/chat/`** (Protegido con JWT)
+    -   Este es el endpoint principal para interactuar con el tutor de IA.
+    -   **Headers**: `Authorization: Bearer <ACCESS_TOKEN>`
+    -   **Body (JSON)**:
+        ```json
+        {
+          "message": "He ido a la tienda y compre dos manzanas."
+        }
+        ```
+    -   **Respuesta (Ejemplo de corrección)**:
+        ```json
+        {
+          "reply": "Corrección: 'Fui a la tienda y compré dos manzanas.'\n\n**Regla:** En español, para acciones pasadas y terminadas, usamos el Pretérito Perfecto Simple (como 'fui' y 'compré') en lugar del Pretérito Perfecto Compuesto ('he ido').\n\n**Práctica:** Completa la frase: Ayer, yo ___ al cine. (ir)"
+        }
+        ```
 
 ---
 
-## 📅 Cambios realizados hoy
+## 🧠 Mejoras en Prompt Engineering
 
-- Se crearon los endpoints `/api/register/`, `/api/login/`, `/api/messages/` y `/api/progress/` en la app `core/`.
-- Se configuró la autenticación JWT para proteger los endpoints de mensajes y progreso.
-- Se probaron los endpoints usando herramientas como Postman o el navegador de DRF.
+Se ha realizado una reingeniería completa de los prompts en `chat_tutor/graph.py` para mejorar drásticamente la calidad de las interacciones:
 
----
-
-## 📖 Notas
-
-- El endpoint `/api/messages/` permite enviar frases para que la IA (equipo 2) procese y devuelva correcciones/feedback.
-- El endpoint `/api/progress/` permite ver el historial de mensajes de cada usuario autenticado.
-- La autenticación está basada en JWT: el frontend o IA debe enviar el access token en cada request protegida.
-
----
+-   **Persona Definida**: La IA ahora adopta la personalidad de "Chipi", un tutor amigable y experto.
+-   **Contexto Mejorado**: Los prompts ahora son más específicos y utilizan el historial de la conversación para tomar mejores decisiones.
+-   **Instrucciones Claras**: Se utiliza un enfoque de "cadena de pensamiento" (Chain of Thought) para guiar a la IA en tareas complejas como el análisis de errores.
+-   **Enfoque en Español**: Todos los prompts han sido corregidos para centrarse en la enseñanza del español.

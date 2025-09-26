@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework', # Added for DRF
     'core',          # Your app
+    'chat_tutor',    # Our new tutor app
 ]
 
 MIDDLEWARE = [
