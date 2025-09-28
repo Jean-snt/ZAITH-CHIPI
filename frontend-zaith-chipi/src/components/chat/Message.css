@@ -1,0 +1,43 @@
+.message-row {
+  display: flex;
+  margin-bottom: 1.2rem;
+  max-width: 85%;
+  align-items: flex-end; /* Alinea la burbuja y el avatar en la parte inferior */
+}
+
+.user-message-row {
+  justify-content: flex-end;
+  align-self: flex-end; /* El contenedor completo se alinea a la derecha */
+}
+
+.ai-message-row {
+  justify-content: flex-start;
+  align-self: flex-start; /* El contenedor completo se alinea a la izquierda */
+  gap: 0.75rem; /* Espacio entre el avatar y la burbuja */
+}
+
+.avatar-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  object-fit: cover;
+}
+
+.message-bubble {
+  padding: 0.8rem 1.2rem;
+  border-radius: 20px;
+  line-height: 1.5;
+}
+
+.user-message {
+  background-color: var(--primary-green);
+  color: var(--text-light);
+  border-bottom-right-radius: 5px;
+}
+
+.ai-message {
+  background-color: var(--surface-dark, #2D3748);
+  color: var(--text-light);
+  border-bottom-left-radius: 5px;
+}

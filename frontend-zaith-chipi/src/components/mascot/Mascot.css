@@ -1,0 +1,48 @@
+@keyframes bobbing {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+.mascot-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.mascot-image {
+  max-width: 380px;
+  width: 100%;
+  height: auto;
+  animation: bobbing 5s ease-in-out infinite;
+  filter: drop-shadow(0px 15px 25px rgba(0, 0, 0, 0.4));
+  cursor: pointer;
+  z-index: 2;
+  transition: transform 0.2s ease-out;
+}
+
+.mascot-image:hover {
+  transform: scale(1.03);
+}
+
+.mascot-image.shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+.mascot-platform {
+  width: 70%;
+  height: 10px;
+  background-color: var(--accent-violet);
+  border-radius: 50%;
+  box-shadow: 0 0 25px 10px var(--accent-glow);
+  z-index: 1;
+  margin-top: -30px; /* Ajusta para que quede debajo de las patas */
+}

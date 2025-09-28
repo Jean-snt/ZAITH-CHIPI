@@ -1,0 +1,65 @@
+.navbar-container {
+  padding: 1rem 2.5rem;
+  background-color: #000000 !important; /* Negro puro, sin excepciones */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  position: relative;
+  z-index: 100;
+}
+
+.navbar-logo-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navbar-logo-img {
+  height: 40px;
+  width: auto;
+}
+
+/* Estilo base para todo el texto de la navbar */
+.navbar-title, .navbar-link, .navbar-user {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.1rem;
+  /* Efecto de neón más sutil */
+  text-shadow:
+    0 0 3px #fff,
+    0 0 6px #fff,
+    0 0 9px var(--accent-violet, #8A63D4);
+  transition: text-shadow 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.navbar-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.navbar-link:hover, .navbar-title:hover {
+  color: #f0f0f0; /* Un blanco ligeramente menos puro al hacer hover para dar feedback */
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.navbar-logout-btn {
+  background-color: var(--primary-green);
+  color: var(--text-light);
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.navbar-logout-btn:hover {
+  background-color: #2F855A;
+}

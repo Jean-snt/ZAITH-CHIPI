@@ -1,0 +1,37 @@
+:root {
+  --background-deep-dark: #0c0a18; /* Un morado casi negro */
+  --aurora-indigo: #2c2a5e;
+  --aurora-magenta: #5c2a5e;
+  --aurora-teal: #1e4a5a;
+  --primary-glow: rgba(56, 161, 105, 0.6);
+  --accent-glow: rgba(138, 99, 212, 0.6); /* Un brillo violeta */
+  --text-light: #E2E8F0;
+  --text-secondary: #A0AEC0;
+  --primary-green: #38A169;
+  --accent-violet: #8A63D4;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes moveBackground {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  color: var(--text-light);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Fondo animado más oscuro y lento */
+  background: linear-gradient(45deg, var(--aurora-indigo), var(--aurora-magenta), var(--aurora-teal), var(--background-deep-dark));
+  background-size: 600% 600%;
+  animation: moveBackground 35s ease infinite;
+  overflow: hidden;
+}
