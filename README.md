@@ -1,8 +1,8 @@
-# 🦙 ZAITH-CHIPI - Tutor Interactivo de Español
+# 🦙 PROYECTO LLAMA "CHIPI" - Tutor Interactivo de Español
 
 ## 📋 Descripción del Proyecto
 
-**ZAITH-CHIPI** es una aplicación web completa que funciona como un tutor interactivo de español potenciado por inteligencia artificial. El proyecto combina un backend robusto desarrollado en **Django** con un frontend moderno en **React + Vite**, ofreciendo una experiencia de aprendizaje inmersiva y personalizada.
+**PROYECTO LLAMA "CHIPI"** es una aplicación web completa que funciona como un tutor interactivo de español potenciado por inteligencia artificial. El proyecto combina un backend robusto desarrollado en **Django** con un frontend moderno en **React + Vite**, ofreciendo una experiencia de aprendizaje inmersiva y personalizada.
 
 ### ✨ Características Principales
 
