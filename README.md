@@ -5,6 +5,14 @@ Sistema backend creado mientras kgaba
 #Jair sigue hablando ya casi acabo
 #Yosias chupame el huevo izquierdo
 -TEODORO DESCUIDO CON YORDY GOGO VIDEO EN MI PERFIL SE LE VEN LAS NALGAS
+--------------------------------------
+Quisiera consultar y reportar una conducta inapropiada observada recientemente. Mi compañero Juanarmando Linares, conocido por crear el famoso “Django Laravel”, realizó burlas hacia su compañero Junior Sulca, refiriéndose a su mamá con expresiones como “vieja” y respondiendo con “tu vieja”.
+
+Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
+
+Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
+
+Muchas gracias por la atención.
 <img width="479" height="283" alt="image" src="https://github.com/user-attachments/assets/4c3d5acc-4511-468d-8ba1-481a3679c65c" />
 <img width="351" height="106" alt="image" src="https://github.com/user-attachments/assets/62fe7e9f-66c0-4763-aac2-765c2b06f596" />
 <img width="411" height="285" alt="image" src="https://github.com/user-attachments/assets/a0e40dd6-3dd5-409c-a3c4-e80a46a46953" />
