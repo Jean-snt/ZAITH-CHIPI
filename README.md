@@ -23,9 +23,11 @@ Muchas gracias por la atención.
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/1cea4bd3-43ce-4e74-847c-ab46ad912f50" />
 <img width="345" height="118" alt="image" src="https://github.com/user-attachments/assets/afd3e36f-4a47-412e-8ef3-3e947d6d68a5" />
 <img width="346" height="381" alt="image" src="https://github.com/user-attachments/assets/608b4f27-11d6-4b6e-8638-b5f5e2005f96" />
+<img width="348" height="422" alt="image" src="https://github.com/user-attachments/assets/76590dad-0d2a-43f9-99d3-6135f5d9ecdc" />
 
 JUANARMANDO NO PERDONA NADA Y ROMPE EL AGUJERO DE ZAITH SAENS(TERMINA EN COGIDA SALVAJE)
 <img width="402" height="319" alt="image" src="https://github.com/user-attachments/assets/8c06428e-ae58-446c-86de-f04429e16559" />
+<img width="401" height="107" alt="image" src="https://github.com/user-attachments/assets/7425829b-beca-49cc-b959-d1555fe5e528" />
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a36744f0-2ce1-4352-af29-4b9ad689fcb9" />
 CONCLUSION: 
