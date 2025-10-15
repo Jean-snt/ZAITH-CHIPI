@@ -7,6 +7,7 @@ Sistema backend creado mientras kgaba
 -TEODORO DESCUIDO CON YORDY GOGO VIDEO EN MI PERFIL SE LE VEN LAS NALGAS
 --------------------------------------
 Quisiera consultar y reportar una conducta inapropiada observada recientemente. Mi compañero Juanarmando Linares, conocido por crear el famoso “Django Laravel”, realizó burlas hacia su compañero Junior Sulca, refiriéndose a su mamá con expresiones como “vieja” y respondiendo con “tu vieja”.
+![Uploading Imagen de WhatsApp 2025-10-15 a las 16.47.25_2c27461f.jpg…]()
 
 Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
 
