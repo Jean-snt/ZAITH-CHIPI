@@ -13,6 +13,8 @@ Considero que este tipo de comportamientos no son adecuados dentro de APM Invers
 
 
 Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
+![Imagen de WhatsApp 2025-10-20 a las 17 09 43_0b5a9073](https://github.com/user-attachments/assets/6071534a-0af7-47e5-85a5-94d95bb837f4)
+
 
 Muchas gracias por la atención.
 <img width="479" height="283" alt="image" src="https://github.com/user-attachments/assets/4c3d5acc-4511-468d-8ba1-481a3679c65c" />
