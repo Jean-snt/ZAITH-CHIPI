@@ -10,8 +10,6 @@ Quisiera consultar y reportar una conducta inapropiada observada recientemente. 
 ![Uploading Imagen de WhatsApp 2025-10-15 a las 16.47.25_2c27461f.jpg…]()
 
 Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
--No pueden ver esto gratis:
-<img width="904" height="956" alt="image" src="https://github.com/user-attachments/assets/880816fe-dbe8-4a10-99cc-ac95aade24e0" />
 
 
 Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
@@ -57,3 +55,8 @@ Considero que este tipo de comportamientos no son apropiados dentro de nuestra e
 Solicito, por favor, que se tomen las medidas necesarias para evitar que situaciones similares vuelvan a ocurrir y garantizar un ambiente de respeto para todos.
 
 Muchas gracias por la atención.
+
+
+--------------
+-No pueden ver esto gratis:
+<img width="904" height="956" alt="image" src="https://github.com/user-attachments/assets/880816fe-dbe8-4a10-99cc-ac95aade24e0" />
