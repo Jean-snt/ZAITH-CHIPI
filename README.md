@@ -11,6 +11,9 @@ Quisiera consultar y reportar una conducta inapropiada observada recientemente. 
 
 Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
 <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/1f97faa3-acef-47f0-9a10-1c6ae1331434" />
+-No pueden ver esto gratis:
+<img width="904" height="956" alt="image" src="https://github.com/user-attachments/assets/880816fe-dbe8-4a10-99cc-ac95aade24e0" />
+
 
 Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
 
@@ -33,10 +36,15 @@ Video: se filtra video de victor y rodrigo durmiendo de cucharita
 <img width="345" height="118" alt="image" src="https://github.com/user-attachments/assets/afd3e36f-4a47-412e-8ef3-3e947d6d68a5" />
 <img width="346" height="381" alt="image" src="https://github.com/user-attachments/assets/608b4f27-11d6-4b6e-8638-b5f5e2005f96" />
 <img width="348" height="422" alt="image" src="https://github.com/user-attachments/assets/76590dad-0d2a-43f9-99d3-6135f5d9ecdc" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8cb4fb1c-2c50-4e8c-852b-3f0fe841eee7" />
+
+<img width="413" height="206" alt="image" src="https://github.com/user-attachments/assets/ec27ba05-4387-4793-b05a-c89314d434f3" />
 
 JUANARMANDO NO PERDONA NADA Y ROMPE EL AGUJERO DE ZAITH SAENS(TERMINA EN COGIDA SALVAJE)
 <img width="402" height="319" alt="image" src="https://github.com/user-attachments/assets/8c06428e-ae58-446c-86de-f04429e16559" />
 <img width="401" height="107" alt="image" src="https://github.com/user-attachments/assets/7425829b-beca-49cc-b959-d1555fe5e528" />
+<img width="421" height="324" alt="image" src="https://github.com/user-attachments/assets/17569324-3eb7-4bf8-b3bd-f2501c32c50c" />
+
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a36744f0-2ce1-4352-af29-4b9ad689fcb9" />
 CONCLUSION: 
