@@ -45,6 +45,8 @@ Video: se filtra video de victor y rodrigo durmiendo de cucharita
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8cb4fb1c-2c50-4e8c-852b-3f0fe841eee7" />
 
 <img width="413" height="206" alt="image" src="https://github.com/user-attachments/assets/ec27ba05-4387-4793-b05a-c89314d434f3" />
+<img width="200" height="49" alt="image" src="https://github.com/user-attachments/assets/22551c6f-c7ed-43e5-8024-b70c4c466d0b" />
+
 
 JUANARMANDO NO PERDONA NADA Y ROMPE EL AGUJERO DE ZAITH SAENS(TERMINA EN COGIDA SALVAJE)
 <img width="402" height="319" alt="image" src="https://github.com/user-attachments/assets/8c06428e-ae58-446c-86de-f04429e16559" />
