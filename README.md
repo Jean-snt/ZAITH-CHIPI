@@ -38,6 +38,8 @@ Video: se filtra video de victor y rodrigo durmiendo de cucharita
 <img width="346" height="381" alt="image" src="https://github.com/user-attachments/assets/608b4f27-11d6-4b6e-8638-b5f5e2005f96" />
 <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/1f97faa3-acef-47f0-9a10-1c6ae1331434" />
 <img width="683" height="1024" alt="image" src="https://github.com/user-attachments/assets/898ed135-3da3-4436-866a-c7b0dd70b7f0" />
+<img width="490" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff1bc633-382c-442f-8c11-c46139945626" />
+
 
 <img width="348" height="422" alt="image" src="https://github.com/user-attachments/assets/76590dad-0d2a-43f9-99d3-6135f5d9ecdc" />
 <img width="683" height="1024" alt="image" src="https://github.com/user-attachments/assets/be28115a-8635-4fd4-894b-f791d6e4e4e6" />
