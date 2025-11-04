@@ -10,23 +10,37 @@ Quisiera consultar y reportar una conducta inapropiada observada recientemente. 
 ![Uploading Imagen de WhatsApp 2025-10-15 a las 16.47.25_2c27461f.jpg…]()
 
 Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
-
-
 Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
-![Imagen de WhatsApp 2025-10-20 a las 17 09 43_0b5a9073](https://github.com/user-attachments/assets/6071534a-0af7-47e5-85a5-94d95bb837f4)
 
+--
+<img width="962" height="1024" alt="image" src="https://github.com/user-attachments/assets/18762d2a-5695-452a-b9fe-5e05a39d5ce5" />
 
 Muchas gracias por la atención.
 <img width="479" height="283" alt="image" src="https://github.com/user-attachments/assets/4c3d5acc-4511-468d-8ba1-481a3679c65c" />
 <img width="351" height="106" alt="image" src="https://github.com/user-attachments/assets/62fe7e9f-66c0-4763-aac2-765c2b06f596" />
--
+
+<img width="423" height="278" alt="image" src="https://github.com/user-attachments/assets/c60ff1bc-684e-4039-81f1-e32aa94e1095" />
+
 RODRIGO GUERRA NO PERDONA ABSOLUTAMENTE NADA Y SE DESTROZA SALVAJEMENTE EL POTO DE VICTOR VIDEO EN MI PERFIL DE GITHUB FILTRADO(TERMINAN USANDO VIBRADOR)
 -
 <img width="411" height="285" alt="image" src="https://github.com/user-attachments/assets/a0e40dd6-3dd5-409c-a3c4-e80a46a46953" />
 <img width="683" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dee37f8-85ce-4c06-948b-629a7e50827e" />
+<img width="266" height="353" alt="image" src="https://github.com/user-attachments/assets/f9fad0cc-d253-44e9-89cc-c65a3c5bba81" />
+
 <img width="478" height="565" alt="image" src="https://github.com/user-attachments/assets/bf64ad23-d1a9-4f5b-9221-9a35db3e7c50" />
+<img width="498" height="129" alt="image" src="https://github.com/user-attachments/assets/742d6276-31a9-4cbc-b93c-a368d516374d" />
+
 <img width="302" height="98" alt="image" src="https://github.com/user-attachments/assets/9465edcb-5059-492e-82d4-77d3e717062c" />
-![Imagen de WhatsApp 2025-10-20 a las 17 09 43_b10f6bb7](https://github.com/user-attachments/assets/a1c7c6d8-09c7-4dac-96eb-c912e5f97bf0)
+<img width="351" height="154" alt="image" src="https://github.com/user-attachments/assets/0d1481ab-8a21-48ff-83fc-db46ca33064d" />
+
+<img width="424" height="415" alt="image" src="https://github.com/user-attachments/assets/578b13a6-33f4-4a89-9278-2469c1557a01" />
+<img width="279" height="456" alt="image" src="https://github.com/user-attachments/assets/7c46ec84-fa17-4f7f-ae16-b885d7107cb2" />
+<img width="230" height="65" alt="image" src="https://github.com/user-attachments/assets/7bc69105-fc30-40a6-8931-ac5ab7d02ba6" />
+
+<img width="230" height="65" alt="image" src="https://github.com/user-attachments/assets/3e11676d-a594-4c3d-8e85-66d253e8ffc4" />
+<img width="372" height="201" alt="image" src="https://github.com/user-attachments/assets/3b533788-fe14-4f78-bcd6-a627dce57be0" />
+
+
 
 -Ultima hora: se filtra un video de un estudiante senatino que murio masturbandose por un personaje de left 4 dead 2
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/1cea4bd3-43ce-4e74-847c-ab46ad912f50" />
@@ -53,6 +67,8 @@ Video: se filtra video de victor y rodrigo durmiendo de cucharita
 JUANARMANDO NO PERDONA NADA Y ROMPE EL AGUJERO DE ZAITH SAENS(TERMINA EN COGIDA SALVAJE)
 <img width="402" height="319" alt="image" src="https://github.com/user-attachments/assets/8c06428e-ae58-446c-86de-f04429e16559" />
 <img width="401" height="107" alt="image" src="https://github.com/user-attachments/assets/7425829b-beca-49cc-b959-d1555fe5e528" />
+<img width="490" height="1024" alt="image" src="https://github.com/user-attachments/assets/4e3164b3-c03c-4bc6-8399-904605c0c839" />
+
 <img width="421" height="324" alt="image" src="https://github.com/user-attachments/assets/17569324-3eb7-4bf8-b3bd-f2501c32c50c" />
 
 
