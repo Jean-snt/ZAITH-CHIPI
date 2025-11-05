@@ -6,19 +6,18 @@ Sistema backend creado mientras kgaba
 #Yosias chupame el huevo izquierdo
 -TEODORO DESCUIDO CON YORDY GOGO VIDEO EN MI PERFIL SE LE VEN LAS NALGAS
 --------------------------------------
-Quisiera consultar y reportar una conducta inapropiada observada recientemente. Mi compañero Juanarmando Linares, conocido por crear el famoso “Django Laravel”, realizó burlas hacia su compañero Junior Sulca, refiriéndose a su mamá con expresiones como “vieja” y respondiendo con “tu vieja”.
-![Uploading Imagen de WhatsApp 2025-10-15 a las 16.47.25_2c27461f.jpg…]()
-
+Quisiera consultar y reportar una conducta inapropiada observada recientemente. Mi compañero Juanarmando Linares, conocido por crear el famoso “Django Laravel”, realizó burlas hacia su compañero Junior Sulca, refiriéndose a su mamá con expresiones como “vieja” y respondiendo con “tu vieja”
 Considero que este tipo de comportamientos no son adecuados dentro de APM Inversiones E.I.R.L., ya que afectan el respeto mutuo y el ambiente laboral.
 Solicito, por favor, que se tomen las medidas correspondientes para evitar que situaciones similares vuelvan a ocurrir, promoviendo así un entorno de trabajo respetuoso y profesional para todos.
 
+
 --
 <img width="962" height="1024" alt="image" src="https://github.com/user-attachments/assets/18762d2a-5695-452a-b9fe-5e05a39d5ce5" />
+<img width="137" height="184" alt="image" src="https://github.com/user-attachments/assets/063428cb-0499-4d13-9b60-bf385e1e6c93" />
 
-Muchas gracias por la atención.
 <img width="479" height="283" alt="image" src="https://github.com/user-attachments/assets/4c3d5acc-4511-468d-8ba1-481a3679c65c" />
 <img width="351" height="106" alt="image" src="https://github.com/user-attachments/assets/62fe7e9f-66c0-4763-aac2-765c2b06f596" />
-
+![Uploading Imagen de WhatsApp 2025-10-15 a las 16.47.25_2c27461f.jpg…]()
 <img width="423" height="278" alt="image" src="https://github.com/user-attachments/assets/c60ff1bc-684e-4039-81f1-e32aa94e1095" />
 
 RODRIGO GUERRA NO PERDONA ABSOLUTAMENTE NADA Y SE DESTROZA SALVAJEMENTE EL POTO DE VICTOR VIDEO EN MI PERFIL DE GITHUB FILTRADO(TERMINAN USANDO VIBRADOR)
